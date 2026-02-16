@@ -1,1 +1,0 @@
-{  "name": "linear-clone",  "type": "javascript",  "compatibility_date": "2026-02-16",  "env": {    "production": {      "routes": [        {          "pattern": "demo.tasm.ai",          "zone_name": "tasm.ai",          "custom_domain": true        }      ]    }  },  "assets": {    "directory": "./out"  }}
